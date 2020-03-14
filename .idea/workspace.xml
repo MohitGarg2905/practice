@@ -2,8 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e6f6d0-b38a-441d-b8ce-e5206b2586c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/interview/leetCode/tripsAndUsers.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/give/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/gainlo/CoinChangeDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/geeksforgeeks/dp/Kadane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/helpers/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/helpers/MatrixUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/helpers/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/BinaryTreeLevelOrderTra102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ClimbStairs70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GraphNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LeastCommonAncestor236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LetterCombinationOfPhoneNumber17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxDepthBinaryTree104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxSlidingWindow239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MostFrequentSubtreeSum508.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/NumberOf1Bits191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ReverseLinkedList206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/RotateImage48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/Search2DMatrix240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ValidSudoku36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/self/PracticeMultithread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/self/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/geeksforgeeks/dp/CountPalindromeSubStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/CircularLoopArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/LongestPalindromeSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/SubStringWithConcatOfAllWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interviewPractice/com/interview/leetCode/ZigZagStringToLineByLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/geeksforgeeks/dp/CountPalindromeSubStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/geeksforgeeks/dp/CountPalindromeSubStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/CircularLoopArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/CircularLoopArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/DecodeWays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/LongestPalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LongestPalindromeSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/SubStringWithConcatOfAllWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/ZigZagStringToLineByLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ZigZagStringToLineByLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/leetCode/tripsAndUsers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/tripsAndUsers.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,34 +54,51 @@
     <session id="326607545">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.100" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.174" value="1" />
+          <entry key="project.open.time.177" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="66" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="66" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="java" value="6282" />
+          <entry key="java" value="13326" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6282" />
+          <entry key="JAVA" value="13326" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="SQL" value="1" />
         </counts>
@@ -53,40 +108,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/RotateImage48.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+            <state>
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/CircularLoopArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+            <state relative-caret-position="1224">
+              <caret line="71" column="68" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,37 +129,51 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/self/PracticeMultithread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+            <state relative-caret-position="126">
+              <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3674#3675#0" expanded="true" />
+                <element signature="e#3710#3711#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/geeksforgeeks/dp/CountPalindromeSubStrings.java">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="690">
+              <caret line="837" column="22" selection-start-line="837" selection-start-column="22" selection-end-line="837" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/LongestPalindromeSubstring.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tryout/give/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="954">
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="126">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/ZigZagStringToLineByLine.java">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="45" column="33" selection-start-line="17" selection-start-column="8" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="196">
+              <caret line="695" column="15" selection-start-line="695" selection-start-column="15" selection-end-line="695" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/BlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2610">
+              <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -139,13 +187,24 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[</find>
+      <find>]</find>
+      <find>&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{</replace>
+      <replace>}</replace>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java" />
         <option value="$PROJECT_DIR$/src/com/interview/leetCode/com/interview/geeksforgeeks/GFG.java" />
         <option value="$PROJECT_DIR$/src/com/interview/leetCode/com/interview/geeksforgeeks/CountPalindromeSubStrings.java" />
@@ -157,14 +216,40 @@
         <option value="$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java" />
         <option value="$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java" />
         <option value="$PROJECT_DIR$/src/com/interview/leetCode/tripsAndUsers.sql" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/NumberOf1Bits191.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/helpers/MatrixUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/RotateImage48.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/ClimbStairs70.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/helpers/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/ReverseLinkedList206.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/BinaryTreeLevelOrderTra102.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/helpers/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/KSmallestInBST230.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/ValidSudoku36.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/MaxDepthBinaryTree104.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/gainlo/CoinChangeDP.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/LeastCommonAncestor236.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/MaxSlidingWindow239.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/LetterCombinationOfPhoneNumber17.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/Search2DMatrix240.java" />
+        <option value="$PROJECT_DIR$/src/com/interview/leetCode/GraphNodes.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/interview/leetCode/GraphNodes.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/give/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/RotateImage48.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/other/interview/geeksforgeeks/dp/Kadane.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/other/interview/self/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MostFrequentSubtreeSum508.java" />
+        <option value="$PROJECT_DIR$/src/com/tryout/other/interview/self/PracticeMultithread.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="49" />
-    <option name="y" value="32" />
-    <option name="width" value="1311" />
-    <option name="height" value="736" />
+    <option name="y" value="27" />
+    <option name="width" value="1301" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,6 +259,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,12 +277,35 @@
               <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
+              <item name="give" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="gainlo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -203,15 +313,22 @@
               <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interviewPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interviewPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tryout" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,6 +336,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tryout.other" />
+      <recent name="com.tryout" />
       <recent name="com.interview.leetCode.com.interview.geeksforgeeks.dp" />
     </key>
   </component>
@@ -234,13 +353,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecodeWays2">
-    <configuration name="CircularLoopArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.leetCode.CircularLoopArray" />
+  <component name="RunManager" selected="Application.PracticeMultithread">
+    <configuration name="GenerateDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tryout.other.interview.leetCode.GenerateDictionary" />
       <module name="interviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interview.leetCode.*" />
+          <option name="PATTERN" value="com.tryout.other.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodeWays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.leetCode.DecodeWays2" />
+    <configuration name="GraphNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tryout.other.interview.leetCode.GraphNodes" />
       <module name="interviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interview.leetCode.*" />
+          <option name="PATTERN" value="com.tryout.other.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.leetCode.LongestPalindromeSubstring" />
+    <configuration name="Kadane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tryout.other.interview.geeksforgeeks.dp.Kadane" />
       <module name="interviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interview.leetCode.*" />
+          <option name="PATTERN" value="com.tryout.other.interview.geeksforgeeks.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubStringWithConcatOfAllWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.leetCode.SubStringWithConcatOfAllWords" />
+    <configuration name="MostFrequentSubtreeSum508" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tryout.other.interview.leetCode.MostFrequentSubtreeSum508" />
       <module name="interviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interview.leetCode.*" />
+          <option name="PATTERN" value="com.tryout.other.interview.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZagStringToLineByLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview.leetCode.ZigZagStringToLineByLine" />
+    <configuration name="PracticeMultithread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tryout.other.interview.self.PracticeMultithread" />
       <module name="interviewPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interview.leetCode.*" />
+          <option name="PATTERN" value="com.tryout.other.interview.self.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,19 +420,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestPalindromeSubstring" />
-      <item itemvalue="Application.ZigZagStringToLineByLine" />
-      <item itemvalue="Application.CircularLoopArray" />
-      <item itemvalue="Application.SubStringWithConcatOfAllWords" />
-      <item itemvalue="Application.DecodeWays2" />
+      <item itemvalue="Application.GraphNodes" />
+      <item itemvalue="Application.GenerateDictionary" />
+      <item itemvalue="Application.PracticeMultithread" />
+      <item itemvalue="Application.Kadane" />
+      <item itemvalue="Application.MostFrequentSubtreeSum508" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecodeWays2" />
-        <item itemvalue="Application.SubStringWithConcatOfAllWords" />
-        <item itemvalue="Application.CircularLoopArray" />
-        <item itemvalue="Application.ZigZagStringToLineByLine" />
-        <item itemvalue="Application.LongestPalindromeSubstring" />
+        <item itemvalue="Application.PracticeMultithread" />
+        <item itemvalue="Application.MostFrequentSubtreeSum508" />
+        <item itemvalue="Application.Kadane" />
+        <item itemvalue="Application.GenerateDictionary" />
+        <item itemvalue="Application.GraphNodes" />
       </list>
     </recent_temporary>
   </component>
@@ -324,20 +443,20 @@
     <frame x="35" y="-10" width="1331" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2614786" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2225681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33073324" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36193448" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32970452" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32917318" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -352,94 +471,184 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java</url>
-          <line>69</line>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/AddTwoNumbers.java</url>
+          <line>71</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java</url>
-          <line>79</line>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/AddTwoNumbers.java</url>
+          <line>81</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/AddTwoNumbers.java</url>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/AddTwoNumbers.java</url>
+          <line>36</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/ZigZagStringToLineByLine.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ZigZagStringToLineByLine.java</url>
           <line>68</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/ZigZagStringToLineByLine.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ZigZagStringToLineByLine.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/CircularLoopArray.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/CircularLoopArray.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/CircularLoopArray.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/CircularLoopArray.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/CircularLoopArray.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/CircularLoopArray.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/SubStringWithConcatOfAllWords.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/SubStringWithConcatOfAllWords.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/SubStringWithConcatOfAllWords.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/DecodeWays2.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/Search2DMatrix240.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/RotateImage48.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/BinaryTreeLevelOrderTra102.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/BinaryTreeLevelOrderTra102.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxDepthBinaryTree104.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxSlidingWindow239.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxSlidingWindow239.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LetterCombinationOfPhoneNumber17.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LetterCombinationOfPhoneNumber17.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/self/Singleton.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MostFrequentSubtreeSum508.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MostFrequentSubtreeSum508.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -447,14 +656,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/interview/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/com/interview/geeksforgeeks/dp/CountPalindromeSubStrings.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/AddTwoNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/k.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/tripsAndUsers.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state>
+          <caret column="451" selection-start-column="451" selection-end-column="451" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/nj.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LongestSubStringWithoutRepeatingCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
@@ -464,62 +675,319 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/geeksforgeeks/dp/CountPalindromeSubStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/CircularLoopArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/LongestPalindromeSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/ZigZagStringToLineByLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="45" column="33" selection-start-line="17" selection-start-column="8" selection-end-line="45" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/CircularLoopArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="1404">
           <caret line="78" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/SubStringWithConcatOfAllWords.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/helpers/MatrixUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        <state relative-caret-position="144">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/SubStringWithConcatOfAllWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/k.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LongestPalindromeSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="954">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/tripsAndUsers.sql">
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ZigZagStringToLineByLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="33" selection-start-line="17" selection-start-column="8" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ReverseLinkedList206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/helpers/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/KSmallestInBST230.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ValidSudoku36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/BinaryTreeLevelOrderTra102.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="40" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxDepthBinaryTree104.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="451" selection-start-column="451" selection-end-column="451" />
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/interview/leetCode/DecodeWays2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LeastCommonAncestor236.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+        <state relative-caret-position="396">
+          <caret line="22" column="7" selection-start-line="8" selection-start-column="6" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MaxSlidingWindow239.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/geeksforgeeks/dp/CountPalindromeSubStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/helpers/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/LetterCombinationOfPhoneNumber17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/Search2DMatrix240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GraphNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/ClimbStairs70.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="21" selection-start-line="24" selection-start-column="8" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/gainlo/CoinChangeDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/DecodeWays2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/NumberOf1Bits191.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/RotateImage48.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/GenerateDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="71" column="68" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/geeksforgeeks/dp/Kadane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="116" column="11" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10098">
+          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/self/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/leetCode/MostFrequentSubtreeSum508.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3906">
+          <caret line="259" column="11" selection-start-line="259" selection-start-column="11" selection-end-line="259" selection-end-column="11" />
+          <folding>
+            <element signature="e#7388#7389#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="90" column="56" selection-start-line="90" selection-start-column="56" selection-end-line="90" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="695" column="15" selection-start-line="695" selection-start-column="15" selection-end-line="695" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/give/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="837" column="22" selection-start-line="837" selection-start-column="22" selection-end-line="837" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tryout/other/interview/self/PracticeMultithread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#3710#3711#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
